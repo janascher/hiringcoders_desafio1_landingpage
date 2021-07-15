@@ -13,6 +13,5 @@ form.addEventListener("submit", (e) => {
     localStorage.setItem("lead", convertData);
 
     let pronto = "Obrigado! Você receberá as novidades por e-mail.";
-
     alert(pronto);      
 })
